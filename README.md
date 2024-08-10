@@ -1,3 +1,4 @@
+[![Whats-App-Image-2024-08-10-at-3-23-32-AM.jpg](https://i.postimg.cc/0QkmXBpP/Whats-App-Image-2024-08-10-at-3-23-32-AM.jpg)](https://postimg.cc/2qtVVTcK)
 <h1 align="center">Hi 👋, I'm Prithiga Velmurugan</h1>
 <h3 align="center">"Innovative Electronics & Communication Engineer specializing in IoT and Embedded Systems"</h3>
 
